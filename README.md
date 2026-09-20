@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 💻 Java Full Stack Developer | MERN Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Turning+ideas+into+real-world+applications;Building+modern+web+applications;Passionate+about+Java+and+Full+Stack+Development;Learning+today%2C+building+tomorrow;Code.+Create.+Innovate." alt="Typing Animation"/>
 
 <br>
 
