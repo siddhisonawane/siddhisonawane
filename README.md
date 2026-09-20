@@ -16,18 +16,30 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="900">
+
+<br>
+
 # 👋 Hi, I'm Siddhi Sonawane
 
 ### 💻 Java Full Stack Developer | MERN Stack Developer
 
-*Turning ideas into real-world applications*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications" alt="Typing Animation"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MERN-Stack-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+<br>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MERN%20Stack-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<br><br>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -35,21 +47,23 @@ Here are some ideas to get you started:
 
 ## 🎓 About Me
 
-- 🎓 **Computer Engineering Graduate** | CGPA: **8.92**
-- 🌱 Currently learning **Advanced Java, Spring Boot & React**
-- 🔭 Interested in **Java Full Stack Development & Software Engineering**
-- 📍 **Pune, Maharashtra, India**
-- 💡 Passionate about building **web applications and solving programming problems**
+🎓 Computer Engineering Graduate with a strong foundation in Java, SQL and Full Stack Development.
+
+💻 Passionate about building scalable web applications using Java, Spring Boot, React and MERN technologies.
+
+🌱 Currently enhancing my skills in Advanced Java, Spring Boot, React and Data Structures & Algorithms.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 ### 💻 Programming & Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express"/>
 </p>
+
+`Advanced Java` `JSP` `Servlets` `JDBC` `REST APIs` `MVC`
 
 ### 🌐 Frontend
 
@@ -63,34 +77,33 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github"/>
 </p>
 
+`SQL` `MySQL` `MongoDB` `Git` `GitHub`
+
 ### 📚 Other Skills
 
-`Advanced Java` `JSP` `Servlets` `JDBC` `REST APIs` `MVC` `Data Structures & Algorithms`
+`Data Structures & Algorithms` `Problem Solving` `Manual Testing`
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
+## 🚀 Projects
 
 ### 🌐 Wanderlust
 
-MERN/MVC based web application featuring:
+A web application inspired by Airbnb with:
 
-- 🔐 Authentication & Authorization
+- 🔐 User Authentication & Authorization
 - 📝 CRUD Operations
-- 🗺️ Location-based listings
-- 🎨 Responsive UI
+- 🗺️ Location-based Listings
+- 🖥️ MVC Architecture
+- 📱 Responsive User Interface
 
-</td>
+**Technologies:** HTML • CSS • JavaScript • Node.js • Express.js • MongoDB • EJS
 
-<td width="50%">
+---
 
 ### 🍴 Foodi Hunter
 
-Java Full Stack web application using:
+A Java Full Stack web application for exploring and managing food-related information.
 
 - ☕ Java
 - 🌐 JSP & Servlets
@@ -98,23 +111,21 @@ Java Full Stack web application using:
 - 🗄️ MySQL
 - 🔄 CRUD Operations
 
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
+---
 
 ### 🧠 SensiQ
 
-Accessible e-learning platform designed to make online learning more inclusive.
+An accessible e-learning platform designed to make online learning more inclusive.
 
-**Features:** Speech-to-Text • Text-to-Speech • Subtitles • Sign Language • Visual Cues
+**Features:**
 
-**Tech:** Node.js • Express.js • MongoDB • REST APIs
+- 🤟 Sign Language Support
+- 🗣️ Speech-to-Text
+- 🔊 Text-to-Speech
+- 📝 Subtitles
+- 👁️ Visual Cues
 
-</td>
-</tr>
-</table>
+**Technologies:** Node.js • Express.js • MongoDB • REST APIs
 
 ---
 
@@ -144,12 +155,12 @@ Accessible e-learning platform designed to make online learning more inclusive.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/siddhi-sonawane-9415a5299/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="https://github.com/siddhisonawane">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/siddhi-sonawane-9415a5299/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
