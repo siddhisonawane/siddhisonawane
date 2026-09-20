@@ -176,6 +176,19 @@ Node.js • Express.js • MongoDB • REST APIs
 </div>
 
 ---
+<div align="center">
+
+## 🎓 About Me
+
+🎓 **Computer Engineering Graduate** with a strong foundation in Java, SQL and Full Stack Development.
+
+💻 Passionate about building **modern web applications** and solving programming problems.
+
+📚 Currently training at **QSpiders, Pune**, focusing on **Java Full Stack Development & Manual Testing**.
+
+🌱 Continuously learning and improving my skills in **Advanced Java, Spring Boot, React & DSA**.
+
+</div>
 
 ## 📊 GitHub Statistics
 
