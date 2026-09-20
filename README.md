@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 💻 Java Full Stack Developer | MERN Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Turning+ideas+into+real-world+applications" alt="Typing Animation"/>
 
 <br>
 
@@ -47,89 +47,137 @@ Here are some ideas to get you started:
 
 ## 🎓 About Me
 
-🎓 Computer Engineering Graduate with a strong foundation in Java, SQL and Full Stack Development.
+<div align="center">
 
-💻 Passionate about building scalable web applications using Java, Spring Boot, React and MERN technologies.
+🎓 Computer Engineering Graduate with a strong foundation in **Java, SQL and Full Stack Development.**
 
-🌱 Currently enhancing my skills in Advanced Java, Spring Boot, React and Data Structures & Algorithms.
+💻 Passionate about building **web applications** using Java, Spring Boot, React and MERN technologies.
+
+🌱 Currently enhancing my skills in **Advanced Java, Spring Boot, React and DSA.**
+
+</div>
 
 ---
 
 ## 🛠️ Skills
 
-### 💻 Programming & Backend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express"/>
-</p>
+### ☕ Programming & Backend
 
-`Advanced Java` `JSP` `Servlets` `JDBC` `REST APIs` `MVC`
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Advanced%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Servlets-007396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge"/>
+
+<br><br>
 
 ### 🌐 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-### 🗄️ Database & Tools
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github"/>
-</p>
+### 🗄️ Database
 
-`SQL` `MySQL` `MongoDB` `Git` `GitHub`
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-### 📚 Other Skills
+<br><br>
 
-`Data Structures & Algorithms` `Problem Solving` `Manual Testing`
+### 🔧 Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVC%20Architecture-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Manual%20Testing-2E7D32?style=for-the-badge"/>
+
+</div>
 
 ---
 
 ## 🚀 Projects
 
-### 🌐 Wanderlust
+<div align="center">
 
-A web application inspired by Airbnb with:
+<table>
 
-- 🔐 User Authentication & Authorization
-- 📝 CRUD Operations
-- 🗺️ Location-based Listings
-- 🖥️ MVC Architecture
-- 📱 Responsive User Interface
+<tr>
 
-**Technologies:** HTML • CSS • JavaScript • Node.js • Express.js • MongoDB • EJS
+<td width="50%" valign="top">
+
+<h3>🌐 Wanderlust</h3>
+
+<p>
+Web application inspired by Airbnb with authentication,
+authorization and CRUD functionality.
+</p>
+
+<p>
+<b>Tech Stack</b><br>
+HTML • CSS • JavaScript • Node.js • Express.js • MongoDB • EJS
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🍴 Foodi Hunter</h3>
+
+<p>
+Java Full Stack web application built for managing
+food-related information.
+</p>
+
+<p>
+<b>Tech Stack</b><br>
+Java • JSP • Servlets • JDBC • MySQL
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+<h3>🧠 SensiQ</h3>
+
+<p>
+Accessible e-learning platform designed to make online
+learning more inclusive.
+</p>
+
+<p>
+<b>Features</b><br>
+🤟 Sign Language • 🗣️ Speech-to-Text • 🔊 Text-to-Speech
+• 📝 Subtitles • 👁️ Visual Cues
+</p>
+
+<p>
+<b>Tech Stack</b><br>
+Node.js • Express.js • MongoDB • REST APIs
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-### 🍴 Foodi Hunter
-
-A Java Full Stack web application for exploring and managing food-related information.
-
-- ☕ Java
-- 🌐 JSP & Servlets
-- 🔗 JDBC
-- 🗄️ MySQL
-- 🔄 CRUD Operations
-
----
-
-### 🧠 SensiQ
-
-An accessible e-learning platform designed to make online learning more inclusive.
-
-**Features:**
-
-- 🤟 Sign Language Support
-- 🗣️ Speech-to-Text
-- 🔊 Text-to-Speech
-- 📝 Subtitles
-- 👁️ Visual Cues
-
-**Technologies:** Node.js • Express.js • MongoDB • REST APIs
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -141,7 +189,7 @@ An accessible e-learning platform designed to make online learning more inclusiv
 
 ---
 
-## 📈 Most Used Languages
+## 💻 Most Used Languages
 
 <div align="center">
 
@@ -163,6 +211,17 @@ An accessible e-learning platform designed to make online learning more inclusiv
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 </div>
 
 ---
