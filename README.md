@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 💻 Java Full Stack Developer | MERN Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Turning+ideas+into+real-world+applications" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Turning+ideas+into+real-world+applications;Building+modern+web+applications;Passionate+about+Java+and+Full+Stack+Development;Learning+today%2C+building+tomorrow;Code.+Create.+Innovate." alt="Typing Animation"/>
 
 <br>
 
@@ -184,16 +184,6 @@ Node.js • Express.js • MongoDB • REST APIs
 <img src="https://github-readme-stats.vercel.app/api?username=siddhisonawane&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhisonawane&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhisonawane&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
