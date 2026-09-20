@@ -14,32 +14,64 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" style="background-color:blue">
+<div align="center">
 
-<table>
-<tr>
-<td align="center" width="900">
+<svg width="100%" height="400" viewBox="0 0 900 400" xmlns="http://www.w3.org/2000/svg">
 
-<br>
+<rect width="900" height="400" rx="20" fill="#0B1F3A"/>
 
-# 👋 Hi, I'm Siddhi Sonawane
+<text x="450" y="80"
+      text-anchor="middle"
+      fill="#FFFFFF"
+      font-size="34"
+      font-weight="bold">
+  👋 Hi, I'm Siddhi Sonawane
+</text>
 
-### 💻 Java Full Stack Developer | MERN Stack Developer
+<text x="450" y="125"
+      text-anchor="middle"
+      fill="#64FFDA"
+      font-size="20"
+      font-weight="bold">
+  💻 Java Full Stack Developer | MERN Stack Developer
+</text>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Turning+ideas+into+real-world+applications;Building+modern+web+applications;Passionate+about+Java+and+Full+Stack+Development;Learning+today%2C+building+tomorrow;Code.+Create.+Innovate." alt="Typing Animation"/>
+<text x="450" y="175"
+      text-anchor="middle"
+      fill="#00F7FF"
+      font-size="18">
+  Turning ideas into real-world applications
+</text>
 
-<br>
+<text x="450" y="235"
+      text-anchor="middle"
+      fill="#FFFFFF"
+      font-size="15">
+  ☕ Java
+</text>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/MERN%20Stack-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<text x="550" y="235"
+      text-anchor="middle"
+      fill="#FFFFFF"
+      font-size="15">
+  🌱 Spring Boot
+</text>
 
-<br><br>
+<text x="650" y="235"
+      text-anchor="middle"
+      fill="#FFFFFF"
+      font-size="15">
+  ⚛️ React
+</text>
 
-</td>
-</tr>
-</table>
+<text x="750" y="235"
+      text-anchor="middle"
+      fill="#FFFFFF"
+      font-size="15">
+  🍃 MERN
+</text>
+
+</svg>
 
 </div>
 
