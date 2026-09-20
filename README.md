@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ## 🎓 About Me
 
-<div align="center">
+<div align="">
 
 🎓 Computer Engineering Graduate with a strong foundation in **Java, SQL and Full Stack Development.**
 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ## 📚 Current Training
 
-<div align="center">
+<div align="">
 
 ### 🚀 QSpiders, Pune
 
@@ -197,7 +197,7 @@ Node.js • Express.js • MongoDB • REST APIs
 
 ## 🏆 Achievements
 
-<div align="center">
+<div align="">
 
 🏅 **TCS NQT Qualified**
 
@@ -211,7 +211,7 @@ Node.js • Express.js • MongoDB • REST APIs
 
 ## 📜 Certifications
 
-<div align="center">
+<div align="">
 
 🎓 Java Full Stack Development  
 🎓 Java+DSA
@@ -245,15 +245,7 @@ Node.js • Express.js • MongoDB • REST APIs
 
 ---
 
-## 📈 Most Used Languages
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhisonawane&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
