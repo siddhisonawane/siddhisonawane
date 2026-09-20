@@ -43,16 +43,35 @@ Here are some ideas to get you started:
 
 </div>
 
+---
 
 ## 🎓 About Me
 
-<div align="">
+<div align="center">
 
 🎓 Computer Engineering Graduate with a strong foundation in **Java, SQL and Full Stack Development.**
 
 💻 Passionate about building **web applications** using Java, Spring Boot, React and MERN technologies.
 
 🌱 Currently enhancing my skills in **Advanced Java, Spring Boot, React and DSA.**
+
+</div>
+
+---
+
+## 📚 Current Training
+
+<div align="center">
+
+### 🚀 QSpiders, Pune
+
+**Java Full Stack Development & Manual Testing**
+
+☕ Advanced Java & Web Technologies  
+🗄️ SQL & MySQL  
+🌐 Java Full Stack Development  
+🧪 Manual Testing  
+🌱 Spring Boot & React
 
 </div>
 
@@ -176,6 +195,44 @@ Node.js • Express.js • MongoDB • REST APIs
 
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+
+🏅 **TCS NQT Qualified**
+
+🎓 **Computer Engineering Graduate — CGPA 8.92**
+
+💻 **Java Full Stack Development Internship Completed**
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+🎓 Java Full Stack Development  
+🎓 Java+DSA
+🎓 MERN Stack
+
+</div>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/siddhisonawane">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -183,6 +240,16 @@ Node.js • Express.js • MongoDB • REST APIs
 <img src="https://github-readme-stats.vercel.app/api?username=siddhisonawane&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhisonawane&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 📈 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhisonawane&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -208,15 +275,6 @@ Node.js • Express.js • MongoDB • REST APIs
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=siddhisonawane&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
