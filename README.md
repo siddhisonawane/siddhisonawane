@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MVC%20Architecture-6A1B9A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Manual%20Testing-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Manual%20Testing-2E7D32?style=for-the-badge"/> 
 
 </div>
 
